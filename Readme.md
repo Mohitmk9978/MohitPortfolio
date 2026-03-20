@@ -7,7 +7,7 @@ This project showcases my skills, projects, and journey as a **Web Developer**.
 
 ## 🌐 Live Demo
 
-👉 [mohitport-folio.netlify.app]
+👉  [View Portfolio](https://mohitport-folio.netlify.app)
 
 ---
 
